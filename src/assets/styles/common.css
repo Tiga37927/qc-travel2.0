@@ -1,0 +1,18 @@
+@import "base.css";
+@import "animate.css";
+
+.btn {
+  padding: 6px 42px;
+  border-radius: 3px;
+  color: #fff;
+  font-size: 16px;
+  cursor: pointer;
+}
+.btn-search {
+  background: #b41521;
+}
+.btn-used {
+  background-color: #d6d6d6!important;
+  cursor: default!important;
+}
+
